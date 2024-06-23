@@ -87,3 +87,33 @@ The analysis is divide into several parts:
 
  - Descriptive statistics
  - Visualizations (e.g., distribution of ratings, most popular cuisines, price range distribution).
+
+3. Geographical Analysis:
+ 
+ - Mapping restaurant locations
+ - Analyzing regional preferences
+
+4. Rating Analysis: 
+ 
+ - Distribution of ratings
+ - Factors affecting ratings
+
+5. Cuisines Analysis:
+
+ - Popular cuisines
+ - Price range for different cuisines
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any changes.
+
+1. Fork the repository. 
+
+2. Create your feature branch (`git checkout -b feature/your-feature`)
+
+3. Commit your changes (`git commit -m 'Add some feature'`)
+
+4. Push to the branch (`git push origin feature/your-feature`)
+
+5. Open a pull request
