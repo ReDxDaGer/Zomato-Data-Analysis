@@ -1,3 +1,5 @@
+<img src="https://brandmusiq.com/assets/work_banner_vyEql_Zomato.jpg" alt="Zomato Banner" />
+
 # Zomato Data Analysis
 
 ## Overview
